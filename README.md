@@ -15,6 +15,4 @@ Check housing: [H]
 Navigate Inventory HUD: [1-0], [Left Arrow], [Right Arrow]
 Zoom In/Out: [Scroll], [I], [O]
 
-# Link
-
-https://kwin487.github.io/Terraria/Terraria%201.0.3%20(1).html
+# [Link](https://kwin487.github.io/Terraria/Terraria%201.0.3%20(1).html)
