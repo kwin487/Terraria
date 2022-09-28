@@ -1,5 +1,5 @@
 # Terraria
-A classic version of Terraria(v 1.0.3) made by scratchfan321
+A classic version of Terraria(v1.0.3) made by scratchfan321
 
 # Controls
 jump: [Space],[W]
